@@ -1,2 +1,9 @@
-# rahmatstore-baileys
-BAILEYS FREE DEV RAHMATSTORE 
+# Baileys By Rahmat Store
+
+Cara pakai:
+1. Upload ke GitHub
+2. Download / clone
+3. Jalankan:
+
+npm install
+npm start
