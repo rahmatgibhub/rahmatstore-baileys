@@ -5,5 +5,4 @@ Cara pakai:
 2. Download / clone
 3. Jalankan:
 
-npm install
 npm start
