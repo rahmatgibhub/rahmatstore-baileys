@@ -8,5 +8,8 @@
   "dependencies": {
     "@whiskeysockets/baileys": "latest",
     "pino": "latest"
+    "node-cache": "latest",
+    "axios": "latest",
+    "chalk": "latest"
   }
 }
